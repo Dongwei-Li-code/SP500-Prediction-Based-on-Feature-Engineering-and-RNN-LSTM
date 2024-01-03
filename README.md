@@ -1,1 +1,1 @@
-# SP500-prediction-based-on-feature-engineering-and-RNN-LSTM
+# SP500 Prediction Based on Feature Engineering and RNN(LSTM)
